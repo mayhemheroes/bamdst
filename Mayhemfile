@@ -1,0 +1,5 @@
+project: bamdst
+target: bamdst
+
+cmds:
+  - cmd: /bamdst -p @@ -o . /staticbam/test.bam
